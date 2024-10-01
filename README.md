@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 **sanjanabansal1994/sanjanabansal1994** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -15,4 +14,3 @@ Email: sanjanabansal1994@gmail.com
 LinkedIn: Sanjana Garg
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
