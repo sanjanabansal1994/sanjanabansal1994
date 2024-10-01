@@ -26,5 +26,4 @@
 3. Medium: [Read my articles](http://medium.com/@sanjanabansal1994)
 
 📫 How to Reach Me:
-1. Email: sanjanabansal1994@gmail.com
-2. LinkedIn: [Sanjana Garg](https://www.linkedin.com/in/sanjanabansal1994/)
+1. LinkedIn: [Sanjana Garg](https://www.linkedin.com/in/sanjanabansal1994/)
