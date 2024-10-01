@@ -10,7 +10,7 @@
 1. Post Graduate Diploma in Data Science from [IIIT-Bangalore](https://www.iiitb.ac.in/).
 2. Bachelor's Degree in Electrical Engineering from [Delhi Technological University](https://dtu.ac.in/).
 
-🏆 Achievements: Top 1 percentile in IIT-JEE and AIEEE. These are the university entrance exams (SAT equivalent) conducted by the government of India.
+🏆 Achievements: Top 1 percentile in IIT-JEE and AIEEE. These are the university entrance exams (SAT equivalent) conducted by the Government of India.
 
 🌍 Canadian PR: Currently based in Toronto, Canada.
 
