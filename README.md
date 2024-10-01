@@ -2,7 +2,7 @@
 
 ## Senior Data Analyst | Machine Learning Enthusiast | Problem Solver
 
-🔍 About Me: I am a Data Analyst with over 5 years of experience, specializing in uncovering insights from data and driving business strategies through actionable analytics. My expertise spans Python, SQL, Tableau, Power BI, and Excel. I’ve worked across different domains, from startups to large corporations, and have honed my skills in data wrangling, predictive analytics, and data visualization.
+🔍 About Me: I am a Senior Data Analyst with over 5 years of experience, specializing in uncovering insights from data and driving business strategies through actionable analytics. My expertise spans Python, SQL, Tableau, Power BI, and Excel. I’ve worked across different domains, from startups to large corporations, and have honed my skills in data wrangling, predictive analytics, and data visualization.
 
 📊 Senior Data Analyst: 2 years at [Zenon](http://zenon.ai) and 3 years at [ReNew](http://renew.com).
 
