@@ -2,35 +2,29 @@
 
 ## Senior Data Analyst | Machine Learning Enthusiast | Problem Solver
 
-🔍 About Me:
+🔍 About Me: I am a Data Analyst with over 5 years of experience, specializing in uncovering insights from data and driving business strategies through actionable analytics. My expertise spans Python, SQL, Tableau, Power BI, and Excel. I’ve worked across different domains, from startups to large corporations, and have honed my skills in data wrangling, predictive analytics, and data visualization.
 
-I am a Data Analyst with over 5 years of experience, specializing in uncovering insights from data and driving business strategies through actionable analytics. My expertise spans Python, SQL, Tableau, Power BI, DAX, and Power Query. I’ve worked across different domains, from startups to large corporations, and have honed my skills in data wrangling, predictive analytics, and data visualization.
-
-📊 Data Analyst
-
-2 years at Zenon (http://zenon.ai) and 3 years at ReNew (http://renew.com).
+📊 Senior Data Analyst: 2 years at [Zenon](http://zenon.ai) and 3 years at [ReNew](http://renew.com).
 
 🎓 Education:
+1. Post Graduate Diploma in Data Science from [IIIT-Bangalore](https://www.iiitb.ac.in/).
+2. Bachelor's Degree in Electrical Engineering from [Delhi Technological University](https://dtu.ac.in/).
 
-Post Graduate Diploma in Data Science from IIIT-Bangalore
-Bachelor's Degree in Electrical Engineering from Delhi Technological University (DTU/DCE)
+🏆 Achievements: Top 1 percentile in IIT-JEE and AIEEE. These are the university entrance exams (SAT equivalent) conducted by the government of India.
 
-🏆 Achievements: Top 1 percentile in IIT-JEE and AIEEE.
-
-🌍 Canadian PR: Currently based in Toronto, Canada, open to relocation within Canada (especially Vancouver).
+🌍 Canadian PR: Currently based in Toronto, Canada.
 
 🚀 Technical Skills:
-Programming Languages: Python, SQL
-Data Visualization: Tableau, Power BI, DAX
-Machine Learning: Predictive Modeling, Time Series Forecasting, ARIMA, Classification
-Cloud Platforms: AWS (S3, Redshift), Google BigQuery
-Tools: Jupyter, Git, Power Query
+1. Programming Languages: Python, SQL, Google Analytics, scikit-learn, TensorFlow, Keras, pandas, NumPy
+2. Data Visualization: Tableau, Microsoft Power BI, Matplotlib, seaborn
+3. Machine Learning: Predictive Modeling, Time Series Forecasting, ARIMA, Classification
+4. Tools: Jupyter Notebook, MS Excel, MS Powerpoint, JIRA, GitHub, Confluence
 
 🌟 Portfolio:
-Tableau Public: Check out my Tableau visualizations
-GitHub: Explore my projects
-Medium: Read my articles
+1. Tableau Public: [Check out my Tableau visualizations](http://public.tableau.com/app/profile/sanjana.garg/vizzes)
+2. GitHub: [Explore my projects](http://github.com/sanjanabansal1994)
+3. Medium: [Read my articles](http://medium.com/@sanjanabansal1994)
 
 📫 How to Reach Me:
-Email: sanjanabansal1994@gmail.com
-LinkedIn: Sanjana Garg
+1. Email: sanjanabansal1994@gmail.com
+2. LinkedIn: [Sanjana Garg](https://www.linkedin.com/in/sanjanabansal1994/)
