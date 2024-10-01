@@ -1,6 +1,6 @@
 # Hi, I'm Sanjana Garg 👋
 
-## Data Analyst | Machine Learning Enthusiast | Problem Solver
+## Senior Data Analyst | Machine Learning Enthusiast | Problem Solver
 
 🔍 About Me:
 I am a Data Analyst with over 5 years of experience, specializing in uncovering insights from data and driving business strategies through actionable analytics. My expertise spans Python, SQL, Tableau, Power BI, DAX, and Power Query. I’ve worked across different domains, from startups to large corporations, and have honed my skills in data wrangling, predictive analytics, and data visualization.
